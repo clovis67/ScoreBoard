@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="couleurfond">#FFFFFF</color>
+    <color name="fondmenu">#4CEDFF</color>
+    <color name="fondsection">#44D5E5</color>
+    <color name="blue_middle">#027EA6</color>
+    <color name="blue_light">#B3D4FC</color>
+</resources>

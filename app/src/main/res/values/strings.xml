@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application -->
+    <string name="app_name" translatable="false">ScoreBoard</string>
+    <string name="menuhaut">Gestion des scores</string>
+    <string name="slidingmenu">Sliding Menu</string>
+
+    <!-- Interface -->
+    <string name="description1">logo</string>
+    <string name="section">Section</string>
+    <string name="textview">TextView</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="confirm_quit">Voulez-vous quitter ?</string>
+    <string name="titre_joueur">Nom du joueur</string>
+    <string name="ajout_joueur">Ajout joueur</string>
+    <string name="modif_joueur">Modifier joueur</string>
+    <string name="sup_joueur">Supprimer joueur</string>
+    <string name="val_sup_joueur">Voulez-vous supprimer le joueur?</string>
+
+    <!-- Message -->
+    <string name="creation_ok">Joueur créé!!</string>
+    <string name="creation_ko">Erreur lors de la création du joueur!!</string>
+
+</resources>
